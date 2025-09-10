@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanPatel1303
 - 👀 I’m interested in learning and implementing creative ideas
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 098233rohan@gmail.com
 
