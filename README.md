@@ -5,5 +5,5 @@
 🔧 Building enterprise mobile apps with Flutter, Dart & hardware integrations  
 📱 Specializing in barcode scanning, thermal printing, offline storage & REST APIs  
 🎓 GPA: 3.87 | Graduate Teaching Assistant @ Cleveland State University  
-📫 098233rohan@gmail.com  
+📫 developerrohan01@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/rohan-flutter-developer)
